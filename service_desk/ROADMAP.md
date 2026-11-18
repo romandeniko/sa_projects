@@ -70,7 +70,7 @@
 
 ### E0. Запуск и рамки
 
-- [ ] `E0-S1` — Project brief — `in progress` — `stories/E0/E0-S1-project-brief.md`
+- [x] `E0-S1` — Project brief — `done` — `stories/E0/E0-S1-project-brief.md`
 - [ ] `E0-S2` — Stakeholder map — `todo` — `stories/E0/E0-S2-stakeholder-map.md`
 - [ ] `E0-S3` — Glossary v1 — `todo` — `stories/E0/E0-S3-glossary.md`
 - [ ] `E0-S4` — Context diagram + product canvas — `todo` — `stories/E0/E0-S4-context.md`
@@ -183,15 +183,14 @@
 
 ## Текущий фокус
 
-1. `E0-S1` — Project brief.
-2. `E0-S2` — Stakeholder map.
-3. `E0-S3` — Glossary v1.
+1. `E0-S2` — Stakeholder map.
+2. `E0-S3` — Glossary v1.
 
 ## Прогресс
 
 - Всего stories: **37**.
-- Done: **0**.
-- In progress: **1**.
+- Done: **1**.
+- In progress: **0**.
 - Todo: **36**.
 
 ## Правила ведения роадмэпа
